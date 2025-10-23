@@ -5,3 +5,10 @@
 .blocks{
     margin-top: 15px;
 }
+footer p{
+    background:rgb(210, 210, 216);
+    color: black;
+    margin-top: 15px;
+    padding: 20px 0px;
+    text-align: center;
+}
